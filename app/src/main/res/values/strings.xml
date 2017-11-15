@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Strengh Standards</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="one_rep_max">1RM:%1$s Lbs</string>
+
+    <string-array name="one_rep_max_formulas">
+        <item>Epley</item>
+        <item>Brzycki</item>
+        <item>McGlothin</item>
+        <item>Lombardi</item>
+        <item>Mayhew</item>
+    </string-array>
+</resources>
