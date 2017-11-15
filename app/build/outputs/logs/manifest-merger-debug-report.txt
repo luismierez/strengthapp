@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/cf7a9c3e92db050926ec43677ce03928/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/cf7a9c3e92db050926ec43677ce03928/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/cf7a9c3e92db050926ec43677ce03928/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:11:9-40
+activity#luismierez.strenghstandards.MainActivity
+ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:14:13-56
+	android:theme
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/cf7a9c3e92db050926ec43677ce03928/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/cf7a9c3e92db050926ec43677ce03928/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luismierez/Documents/AndroidStudioProjects/StrenghStandards/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a4083d7f0fa616cf6ec01facbae59a33/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8c55b4c3b97c19cd9231beee4a1d50c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e5baa56c049c75112acb4f2488e145d6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1300ee7a149973ad13c2e5d817298416/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b828b39b9643e32e208acb6c7fc76562/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/541bb8bfbc28afb567701194e78b11a6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e0abc3d58d1659e806c6eadac68eb0ad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e40d1dd7326438c7f9997b03e6753261/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/304c46c0fad8d76c3d06c3d6221fd4fc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a398df3dfa478b11565829dad50aef36/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9779d98aafd6c4b30d86fc2af45bdeb3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ddc676f2006fd47d8db974d1c8b56155/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/998f5dc0de1c93c9722fb49ea9fb38e3/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luismierez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf9db13c5656b06b8398c5329e88700/AndroidManifest.xml:26:13-58
