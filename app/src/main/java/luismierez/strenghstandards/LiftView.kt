@@ -78,35 +78,29 @@ fun String.safeToInt() = if (this.isEmpty()) {
     }
 
 sealed class Formula {
-    abstract fun resolve(weight: Int, repetition: Int) : Int
+    abstract fun resolve(weight: Number, repetition: Number) : Float
     class Epley : Formula() {
-        override fun resolve(weight: Int, repetition: Int): Int {
-            return weight * (1 + (repetition/30))
-        }
+        override fun resolve(weight: Number, repetition: Number): Float = (weight.toFloat() * (1F + repetition.toFloat()/30F))
     }
 
     class Brzycki : Formula() {
-        override fun resolve(weight: Int, repetition: Int): Int {
-            return weight/(1.0278 - 0.0278 * repetition).toInt()
-        }
+        override fun resolve(weight: Number, repetition: Number): Float =
+                (weight.toFloat()/(1.0278F - 0.0278F * repetition.toFloat()))
     }
     
     class McGlothin : Formula() {
-        override fun resolve(weight: Int, repetition: Int): Int {
-            return ((100 * weight) / (101.3 - 2.67123 * repetition)).toInt()   
-        }
+        override fun resolve(weight: Number, repetition: Number): Float =
+                ((100F * weight.toFloat()) / (101.3F - 2.67123F * repetition.toFloat()))
     }
     
     class Lombardi : Formula() {
-        override fun resolve(weight: Int, repetition: Int): Int {
-            return (weight * Math.pow(repetition.toDouble(), .10)).toInt()
-        }
+        override fun resolve(weight: Number, repetition: Number): Float =
+                (weight.toFloat() * Math.pow(repetition.toDouble(), .10)).toFloat()
     }
     
     class Mayhew : Formula() {
-        override fun resolve(weight: Int, repetition: Int): Int {
-            return (100 * weight) / (52.2 + (41.9 * Math.exp(-0.055 * repetition))).toInt()
-        }
+        override fun resolve(weight: Number, repetition: Number): Float =
+                ((100F * weight.toFloat()) / (52.2F + (41.9F * Math.exp(-0.055F * repetition.toDouble())))).toFloat()
     }
 }
 
